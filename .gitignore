@@ -1,0 +1,10 @@
+data
+model
+wandb
+profiler_logs
+
+*.csv
+*.pth
+*.pt
+*.onnx
+*.prof
